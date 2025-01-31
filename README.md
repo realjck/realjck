@@ -13,7 +13,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
     <td align="center">
       <a href="https://www.adobe.com/creativecloud.html">
         <img src="icons/adobe.png" width="50">
-      </a><br>Adobe Creative Cloud
+      </a><br>Adobe CC
     </td>
     <td align="center">
       <a href="https://www.aseprite.org/">
