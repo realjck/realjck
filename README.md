@@ -23,11 +23,6 @@ I am a versatile front-end developer with a passion for innovation and interacti
       </a><br>Adobe CC
     </td>
     <td align="center">
-      <a href="https://www.aseprite.org/">
-        <img src="icons/aseprite.png" width="50">
-      </a><br>Aseprite
-    </td>
-    <td align="center">
       <a href="https://cyberduck.io/">
         <img src="icons/cyberduck.png" width="50">
       </a><br>Cyberduck
@@ -47,13 +42,13 @@ I am a versatile front-end developer with a passion for innovation and interacti
         <img src="icons/docker.png" width="50">
       </a><br>Docker
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.gitkraken.com/">
         <img src="icons/gitkraken.png" width="50">
       </a><br>GitKraken
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.jetbrains.com/idea/">
         <img src="icons/intellij.png" width="50">
@@ -65,26 +60,9 @@ I am a versatile front-end developer with a passion for innovation and interacti
       </a><br>Kali Linux
     </td>
     <td align="center">
-      <a href="https://meldmerge.org/">
-        <img src="icons/meld.png" width="50">
-      </a><br>Meld
-    </td>
-    <td align="center">
-      <a href="https://notepad-plus-plus.org/">
-        <img src="icons/notepad++.png" width="50">
-      </a><br>Notepad++
-    </td>
-    <td align="center">
       <a href="https://obsidian.md/">
         <img src="icons/obsidian.png" width="50">
       </a><br>Obsidian
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.lexaloffle.com/pico-8.php">
-        <img src="icons/pico8.png" width="50">
-      </a><br>Pico-8
     </td>
     <td align="center">
       <a href="https://www.postman.com/">
@@ -100,11 +78,6 @@ I am a versatile front-end developer with a passion for innovation and interacti
       <a href="https://code.visualstudio.com/">
         <img src="icons/vscode.png" width="50">
       </a><br>VS Code
-    </td>
-    <td align="center">
-      <a href="https://zed.dev/">
-        <img src="icons/zed.png" width="50">
-      </a><br>Zed
     </td>
   </tr>
 </table>
