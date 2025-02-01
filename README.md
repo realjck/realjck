@@ -88,22 +88,6 @@ I am a versatile front-end developer with a passion for innovation and interacti
   </tr>
 </table>
 
-<h3>📂 File Management & Databases</h3>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://cyberduck.io/">
-        <img src="icons/cyberduck.png" width="32">
-      </a><br>Cyberduck
-    </td>
-    <td align="center">
-      <a href="https://dbeaver.io/">
-        <img src="icons/dbeaver.png" width="32">
-      </a><br>DBeaver
-    </td>
-  </tr>
-</table>
-
 <h3>🌐 Operating Systems & Utilities</h3>
 <table>
   <tr>
@@ -126,6 +110,22 @@ I am a versatile front-end developer with a passion for innovation and interacti
       <a href="https://obsidian.md/">
         <img src="icons/obsidian.png" width="32">
       </a><br>Obsidian
+    </td>
+  </tr>
+</table>
+
+<h3>📂 Database & File Tools</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://dbeaver.io/">
+        <img src="icons/dbeaver.png" width="32">
+      </a><br>DBeaver
+    </td>
+    <td align="center">
+      <a href="https://cyberduck.io/">
+        <img src="icons/cyberduck.png" width="32">
+      </a><br>Cyberduck
     </td>
   </tr>
 </table>
