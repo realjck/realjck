@@ -3,15 +3,15 @@
 ## 🚀 About Me
 I am a versatile front-end developer with a passion for innovation and interactive experiences. With hands-on experience in digital learning, I bring a fresh perspective on development and IT consulting.
 
-![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 ## 🛠️ Skills
 
 - Front-End Development: HTML, CSS, JavaScript, Angular, React
 - Back-End Development: Java, Python
 - Databases: MySQL, PostgreSQL
 - Tools: Git, Docker
+
+![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## 🖱️ Software I use
 
