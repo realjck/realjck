@@ -16,7 +16,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
 ## 🖱️ Software I use
 
 <h3>🎨 Design & Multimedia</h3>
-<table border="0">
+<table>
   <tr>
     <td align="center">
       <a href="https://www.adobe.com/creativecloud.html">
@@ -32,7 +32,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
 </table>
 
 <h3>💻 Development & Programming</h3>
-<table border="0">
+<table>
   <tr>
     <td align="center">
       <a href="https://www.jetbrains.com/idea/">
@@ -63,7 +63,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
 </table>
 
 <h3>🛠️ DevOps & Tools</h3>
-<table border="0">
+<table>
   <tr>
     <td align="center">
       <a href="https://www.docker.com/">
@@ -88,9 +88,14 @@ I am a versatile front-end developer with a passion for innovation and interacti
   </tr>
 </table>
 
-<h3>🗄️ Databases & Data Management</h3>
-<table border="0">
+<h3>📂 File Management & Databases</h3>
+<table>
   <tr>
+    <td align="center">
+      <a href="https://cyberduck.io/">
+        <img src="icons/cyberduck.png" width="32">
+      </a><br>Cyberduck
+    </td>
     <td align="center">
       <a href="https://dbeaver.io/">
         <img src="icons/dbeaver.png" width="32">
@@ -100,7 +105,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
 </table>
 
 <h3>🌐 Operating Systems & Utilities</h3>
-<table border="0">
+<table>
   <tr>
     <td align="center">
       <a href="https://www.kali.org/">
@@ -124,19 +129,6 @@ I am a versatile front-end developer with a passion for innovation and interacti
     </td>
   </tr>
 </table>
-
-<h3>📂 File Management & Networking</h3>
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://cyberduck.io/">
-        <img src="icons/cyberduck.png" width="32">
-      </a><br>Cyberduck
-    </td>
-  </tr>
-</table>
-
-
 
 ## 📬 Let's Connect
 
