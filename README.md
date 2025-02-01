@@ -17,7 +17,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
 
 <table>
   <tr>
-    <td colspan="6" align="center"><strong>🎨 Design & Multimedia</strong></td>
+    <td colspan="6" align="left"><strong>🎨 Design & Multimedia</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -33,7 +33,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
   </tr>
 
   <tr>
-    <td colspan="6" align="center"><strong>💻 Development & Programming</strong></td>
+    <td colspan="6" align="left"><strong>💻 Development & Programming</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -64,7 +64,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
   </tr>
 
   <tr>
-    <td colspan="6" align="center"><strong>🛠️ DevOps & Tools</strong></td>
+    <td colspan="6" align="left"><strong>🛠️ DevOps & Tools</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -90,7 +90,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
   </tr>
 
   <tr>
-    <td colspan="6" align="center"><strong>🗄️ Databases & Data Management</strong></td>
+    <td colspan="6" align="left"><strong>🗄️ Databases & Data Management</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -101,7 +101,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
   </tr>
 
   <tr>
-    <td colspan="6" align="center"><strong>🌐 Operating Systems & Utilities</strong></td>
+    <td colspan="6" align="left"><strong>🌐 Operating Systems & Utilities</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -127,7 +127,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
   </tr>
 
   <tr>
-    <td colspan="6" align="center"><strong>📂 File Management & Networking</strong></td>
+    <td colspan="6" align="left"><strong>📂 File Management & Networking</strong></td>
   </tr>
   <tr>
     <td align="center">
