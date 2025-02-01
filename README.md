@@ -15,117 +15,81 @@ I am a versatile front-end developer with a passion for innovation and interacti
 
 ## 🖱️ Software I use
 
-<h3>🎨 Design & Multimedia</h3>
 <table>
   <tr>
-    <td align="center">
+    <td><strong>🎨 Design & Multimedia</strong></td>
+    <td>
       <a href="https://www.adobe.com/creativecloud.html">
-        <img src="icons/adobe.png" width="32">
-      </a><br>Adobe CC
-    </td>
-    <td align="center">
+        <img src="icons/adobe.png" width="16"> Adobe CC
+      </a>, 
       <a href="https://www.aseprite.org/">
-        <img src="icons/aseprite.png" width="32">
-      </a><br>Aseprite
+        <img src="icons/aseprite.png" width="16"> Aseprite
+      </a>
     </td>
   </tr>
-</table>
-
-<h3>💻 Development & Programming</h3>
-<table>
   <tr>
-    <td align="center">
+    <td><strong>💻 Development & Programming</strong></td>
+    <td>
       <a href="https://www.jetbrains.com/idea/">
-        <img src="icons/intellij.png" width="32">
-      </a><br>IntelliJ IDEA
-    </td>
-    <td align="center">
+        <img src="icons/intellij.png" width="16"> IntelliJ IDEA
+      </a>, 
       <a href="https://code.visualstudio.com/">
-        <img src="icons/vscode.png" width="32">
-      </a><br>VS Code
-    </td>
-    <td align="center">
+        <img src="icons/vscode.png" width="16"> VS Code
+      </a>, 
       <a href="https://zed.dev/">
-        <img src="icons/zed.png" width="32">
-      </a><br>Zed
-    </td>
-    <td align="center">
+        <img src="icons/zed.png" width="16"> Zed
+      </a>, 
       <a href="https://www.lexaloffle.com/pico-8.php">
-        <img src="icons/pico8.png" width="32">
-      </a><br>Pico-8
-    </td>
-    <td align="center">
+        <img src="icons/pico8.png" width="16"> Pico-8
+      </a>, 
       <a href="https://unity.com/">
-        <img src="icons/unity.png" width="32">
-      </a><br>Unity
+        <img src="icons/unity.png" width="16"> Unity
+      </a>
     </td>
   </tr>
-</table>
-
-<h3>🛠️ DevOps & Tools</h3>
-<table>
   <tr>
-    <td align="center">
+    <td><strong>🛠️ DevOps & Tools</strong></td>
+    <td>
       <a href="https://www.docker.com/">
-        <img src="icons/docker.png" width="32">
-      </a><br>Docker
-    </td>
-    <td align="center">
+        <img src="icons/docker.png" width="16"> Docker
+      </a>, 
       <a href="https://www.gitkraken.com/">
-        <img src="icons/gitkraken.png" width="32">
-      </a><br>GitKraken
-    </td>
-    <td align="center">
+        <img src="icons/gitkraken.png" width="16"> GitKraken
+      </a>, 
       <a href="https://www.postman.com/">
-        <img src="icons/postman.png" width="32">
-      </a><br>Postman
-    </td>
-    <td align="center">
+        <img src="icons/postman.png" width="16"> Postman
+      </a>, 
       <a href="https://meldmerge.org/">
-        <img src="icons/meld.png" width="32">
-      </a><br>Meld
+        <img src="icons/meld.png" width="16"> Meld
+      </a>
     </td>
   </tr>
-</table>
-
-<h3>🌐 Operating Systems & Utilities</h3>
-<table>
   <tr>
-    <td align="center">
+    <td><strong>🌐 Operating Systems & Utilities</strong></td>
+    <td>
       <a href="https://www.kali.org/">
-        <img src="icons/kali.png" width="32">
-      </a><br>Kali Linux
-    </td>
-    <td align="center">
+        <img src="icons/kali.png" width="16"> Kali Linux
+      </a>, 
       <a href="https://www.debian.org/">
-        <img src="icons/debian.png" width="32">
-      </a><br>WSL Debian
-    </td>
-    <td align="center">
+        <img src="icons/debian.png" width="16"> WSL Debian
+      </a>, 
       <a href="https://notepad-plus-plus.org/">
-        <img src="icons/notepad++.png" width="32">
-      </a><br>Notepad++
-    </td>
-    <td align="center">
+        <img src="icons/notepad++.png" width="16"> Notepad++
+      </a>, 
       <a href="https://obsidian.md/">
-        <img src="icons/obsidian.png" width="32">
-      </a><br>Obsidian
+        <img src="icons/obsidian.png" width="16"> Obsidian
+      </a>
     </td>
   </tr>
-</table>
-
-<h3>📂 Database & File Tools</h3>
-<table>
   <tr>
-    <td align="center">
+    <td><strong>📂 Data & File Management</strong></td>
+    <td>
       <a href="https://dbeaver.io/">
-        <img src="icons/dbeaver.png" width="32">
-      </a><br>DBeaver
-    </td>
-    <td align="center">
+        <img src="icons/dbeaver.png" width="16"> DBeaver
+      </a>, 
       <a href="https://cyberduck.io/">
-        <img src="icons/cyberduck.png" width="32">
-      </a><br>Cyberduck
+        <img src="icons/cyberduck.png" width="16"> Cyberduck
+      </a>
     </td>
   </tr>
 </table>
