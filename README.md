@@ -17,7 +17,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
 
 <table>
   <tr>
-    <td><strong>🎨 Design & Multimedia</strong></td>
+    <td><strong>Design & Multimedia</strong></td>
     <td>
       <a href="https://www.adobe.com/creativecloud.html">
         <img src="icons/adobe.png" width="16"> Adobe CC
@@ -28,7 +28,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
     </td>
   </tr>
   <tr>
-    <td><strong>💻 Development & Programming</strong></td>
+    <td><strong>Development & Programming</strong></td>
     <td>
       <a href="https://www.jetbrains.com/idea/">
         <img src="icons/intellij.png" width="16"> IntelliJ IDEA
@@ -48,7 +48,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
     </td>
   </tr>
   <tr>
-    <td><strong>🛠️ DevOps & Tools</strong></td>
+    <td><strong>DevOps & Tools</strong></td>
     <td>
       <a href="https://www.docker.com/">
         <img src="icons/docker.png" width="16"> Docker
@@ -65,7 +65,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
     </td>
   </tr>
   <tr>
-    <td><strong>🌐 Operating Systems & Utilities</strong></td>
+    <td><strong>Operating Systems & Utilities</strong></td>
     <td>
       <a href="https://www.kali.org/">
         <img src="icons/kali.png" width="16"> Kali Linux
@@ -82,7 +82,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
     </td>
   </tr>
   <tr>
-    <td><strong>📂 Data & File Management</strong></td>
+    <td><strong>Data & File Management</strong></td>
     <td>
       <a href="https://dbeaver.io/">
         <img src="icons/dbeaver.png" width="16"> DBeaver
