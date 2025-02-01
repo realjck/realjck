@@ -1,12 +1,19 @@
 # Hi, I'm JC! 👋
 
-## About Me
+## 🚀 About Me
 I am a versatile front-end developer with a passion for innovation and interactive experiences. With hands-on experience in digital learning, I bring a fresh perspective on development and IT consulting.
 
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-## Software I use
+## 🛠️ Skills
+
+- Front-End Development: HTML, CSS, JavaScript, Angular, React
+- Back-End Development: Java, Python
+- Databases: MySQL, PostgreSQL
+- Tools: Git, Docker
+
+## 🖱️ Software I use
 
 <table>
   <tr>
@@ -102,3 +109,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
   </tr>
 </table>
 
+## 📬 Let's Connect
+
+- LinkedIn: [linkedin.com/in/devjck/](https://www.linkedin.com/in/devjck/)
+- Portfolio: [devjck.fr](https://devjck.fr)
