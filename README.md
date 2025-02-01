@@ -15,10 +15,8 @@ I am a versatile front-end developer with a passion for innovation and interacti
 
 ## 🖱️ Software I use
 
-<table>
-  <tr>
-    <td colspan="6" align="left"><strong>🎨 Design & Multimedia</strong></td>
-  </tr>
+<h3>🎨 Design & Multimedia</h3>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://www.adobe.com/creativecloud.html">
@@ -31,10 +29,10 @@ I am a versatile front-end developer with a passion for innovation and interacti
       </a><br>Aseprite
     </td>
   </tr>
+</table>
 
-  <tr>
-    <td colspan="6" align="left"><strong>💻 Development & Programming</strong></td>
-  </tr>
+<h3>💻 Development & Programming</h3>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://www.jetbrains.com/idea/">
@@ -62,10 +60,10 @@ I am a versatile front-end developer with a passion for innovation and interacti
       </a><br>Unity
     </td>
   </tr>
+</table>
 
-  <tr>
-    <td colspan="6" align="left"><strong>🛠️ DevOps & Tools</strong></td>
-  </tr>
+<h3>🛠️ DevOps & Tools</h3>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://www.docker.com/">
@@ -88,10 +86,10 @@ I am a versatile front-end developer with a passion for innovation and interacti
       </a><br>Meld
     </td>
   </tr>
+</table>
 
-  <tr>
-    <td colspan="6" align="left"><strong>🗄️ Databases & Data Management</strong></td>
-  </tr>
+<h3>🗄️ Databases & Data Management</h3>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://dbeaver.io/">
@@ -99,10 +97,10 @@ I am a versatile front-end developer with a passion for innovation and interacti
       </a><br>DBeaver
     </td>
   </tr>
+</table>
 
-  <tr>
-    <td colspan="6" align="left"><strong>🌐 Operating Systems & Utilities</strong></td>
-  </tr>
+<h3>🌐 Operating Systems & Utilities</h3>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://www.kali.org/">
@@ -125,10 +123,10 @@ I am a versatile front-end developer with a passion for innovation and interacti
       </a><br>Obsidian
     </td>
   </tr>
+</table>
 
-  <tr>
-    <td colspan="6" align="left"><strong>📂 File Management & Networking</strong></td>
-  </tr>
+<h3>📂 File Management & Networking</h3>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://cyberduck.io/">
@@ -137,6 +135,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
     </td>
   </tr>
 </table>
+
 
 
 ## 📬 Let's Connect
