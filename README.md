@@ -5,10 +5,24 @@ I am a versatile front-end developer with a passion for innovation and interacti
 
 ## 🛠️ Skills
 
-- Front-End Development: HTML, CSS, JavaScript, Angular, React
-- Back-End Development: Java, Python
-- Databases: MySQL, PostgreSQL
-- Tools: Git, Docker
+<p>
+  I develop front-end applications with 
+  <img src="icons/html.png" alt="HTML" width="16" height="16"> HTML, 
+  <img src="icons/css.png" alt="CSS" width="16" height="16"> CSS, 
+  <img src="icons/javascript.png" alt="JavaScript" width="16" height="16"> JavaScript, 
+  <img src="icons/angular.png" alt="Angular" width="16" height="16"> Angular, and 
+  <img src="icons/react.png" alt="React" width="16" height="16"> React. 
+  I build back-end applications with 
+  <img src="icons/java.png" alt="Java" width="16" height="16"> Java and 
+  <img src="icons/python.png" alt="Python" width="16" height="16"> Python, 
+  manage databases with 
+  <img src="icons/mysql.png" alt="MySQL" width="16" height="16"> MySQL and 
+  <img src="icons/postgresql.png" alt="PostgreSQL" width="16" height="16"> PostgreSQL, 
+  and use 
+  <img src="icons/git.png" alt="Git" width="16" height="16"> Git and 
+  <img src="icons/docker.png" alt="Docker" width="16" height="16"> Docker 
+  for version control and deployment.
+</p>
 
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-light-mode-only)
