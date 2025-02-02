@@ -5,6 +5,8 @@ I am a versatile front-end developer with a passion for innovation and interacti
 
 ## 🛠️ Skills
 
+Here is the tech stack I like working with:
+
 <table>
   <tr>
     <td><strong>Front-End</strong></td>
@@ -43,6 +45,8 @@ I am a versatile front-end developer with a passion for innovation and interacti
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## 🖱️ Software I use
+
+Below is a list of the tools I use to bring my projects to life:
 
 <table>
   <tr>
@@ -124,6 +128,8 @@ I am a versatile front-end developer with a passion for innovation and interacti
 </table>
 
 ## 📬 Let's Connect
+
+Feel free to reach out for any inquiries or work opportunities.
 
 - LinkedIn: [linkedin.com/in/devjck/](https://www.linkedin.com/in/devjck/)
 - Portfolio: [devjck.fr](https://devjck.fr)
