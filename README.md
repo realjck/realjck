@@ -1,6 +1,7 @@
 # Hi, I'm JC! 👋
 
 ## 🚀 About Me
+
 I am a versatile front-end developer with a passion for innovation and interactive experiences. With hands-on experience in digital learning, I bring a fresh perspective on development and IT consulting.
 
 ## 🛠️ Skills
@@ -46,7 +47,7 @@ Here is the tech stack I like working with:
 
 ## 🖱️ Software I use
 
-Below is a list of the tools I use to bring my projects to life:
+Below are the tools that help me develop and deliver my projects:
 
 <table>
   <tr>
@@ -129,7 +130,7 @@ Below is a list of the tools I use to bring my projects to life:
 
 ## 📬 Let's Connect
 
-Feel free to reach out for any inquiries or work opportunities.
+Feel free to reach out for any inquiries or work opportunities:
 
 - LinkedIn: [linkedin.com/in/devjck/](https://www.linkedin.com/in/devjck/)
 - Portfolio: [devjck.fr](https://devjck.fr)
