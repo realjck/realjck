@@ -5,29 +5,39 @@ I am a versatile front-end developer with a passion for innovation and interacti
 
 ## 🛠️ Skills
 
-<p>
-  <strong>Front-End:</strong>  
-  <img src="icons/html.png" alt="HTML" width="16" height="16"> HTML,  
-  <img src="icons/css.png" alt="CSS" width="16" height="16"> CSS,  
-  <img src="icons/javascript.png" alt="JavaScript" width="16" height="16"> JavaScript,  
-  <img src="icons/angular.png" alt="Angular" width="16" height="16"> Angular,  
-  <img src="icons/react.png" alt="React" width="16" height="16"> React  
-</p>
-<p>
-  <strong>Back-End:</strong>  
-  <img src="icons/java.png" alt="Java" width="16" height="16"> Java,  
-  <img src="icons/python.png" alt="Python" width="16" height="16"> Python  
-</p>
-<p>
-  <strong>Databases:</strong>  
-  <img src="icons/mysql.png" alt="MySQL" width="16" height="16"> MySQL,  
-  <img src="icons/postgresql.png" alt="PostgreSQL" width="16" height="16"> PostgreSQL  
-</p>
-<p>
-  <strong>Tools:</strong>  
-  <img src="icons/git.png" alt="Git" width="16" height="16"> Git,  
-  <img src="icons/docker.png" alt="Docker" width="16" height="16"> Docker  
-</p>
+<table>
+  <tr>
+    <td><strong>Front-End</strong></td>
+    <td>
+      <img src="icons/html.png" alt="HTML" width="16" height="16"> HTML,  
+      <img src="icons/css.png" alt="CSS" width="16" height="16"> CSS,  
+      <img src="icons/javascript.png" alt="JavaScript" width="16" height="16"> JavaScript,  
+      <img src="icons/angular.png" alt="Angular" width="16" height="16"> Angular,  
+      <img src="icons/react.png" alt="React" width="16" height="16"> React
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Back-End</strong></td>
+    <td>
+      <img src="icons/java.png" alt="Java" width="16" height="16"> Java,  
+      <img src="icons/python.png" alt="Python" width="16" height="16"> Python
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="icons/mysql.png" alt="MySQL" width="16" height="16"> MySQL,  
+      <img src="icons/postgresql.png" alt="PostgreSQL" width="16" height="16"> PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="icons/git.png" alt="Git" width="16" height="16"> Git,  
+      <img src="icons/docker.png" alt="Docker" width="16" height="16"> Docker
+    </td>
+  </tr>
+</table>
 
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-light-mode-only)
