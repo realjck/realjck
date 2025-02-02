@@ -54,10 +54,7 @@ Below are the tools that help me develop and deliver my projects:
     <td><strong>Design & Multimedia</strong></td>
     <td>
       <a href="https://www.adobe.com/creativecloud.html">
-        <img src="icons/adobe.png" width="16"> Adobe CC
-      </a>, 
-      <a href="https://www.aseprite.org/">
-        <img src="icons/aseprite.png" width="16"> Aseprite
+        <img src="icons/adobe.png" width="16"> Adobe Creative Cloud
       </a>
     </td>
   </tr>
@@ -72,9 +69,6 @@ Below are the tools that help me develop and deliver my projects:
       </a>, 
       <a href="https://zed.dev/">
         <img src="icons/zed.png" width="16"> Zed
-      </a>, 
-      <a href="https://www.lexaloffle.com/pico-8.php">
-        <img src="icons/pico8.png" width="16"> Pico-8
       </a>, 
       <a href="https://unity.com/">
         <img src="icons/unity.png" width="16"> Unity
