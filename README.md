@@ -22,7 +22,7 @@ Here is the tech stack I like working with:
   <tr>
     <td><strong>Back-End</strong></td>
     <td>
-      <img src="icons/java.png" alt="Java" width="16" height="16"> Java,  
+      <img src="icons/spring.png" alt="Java Spring" width="16" height="16"> Java Spring,  
       <img src="icons/python.png" alt="Python" width="16" height="16"> Python
     </td>
   </tr>
