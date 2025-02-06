@@ -16,8 +16,7 @@ Here are the technologies and frameworks I like working with right now:
       <img src="icons/css.png" alt="CSS" width="16" height="16"> CSS, 
       <img src="icons/javascript.png" alt="JavaScript" width="16" height="16"> JavaScript, 
       <img src="icons/typescript.png" alt="TypeScript" width="16" height="16"> TypeScript, 
-      <img src="icons/angular.png" alt="Angular" width="16" height="16"> Angular, 
-      <img src="icons/react.png" alt="React" width="16" height="16"> React
+      <img src="icons/angular.png" alt="Angular" width="16" height="16"> Angular
     </td>
   </tr>
   <tr>
@@ -38,8 +37,7 @@ Here are the technologies and frameworks I like working with right now:
     <td><strong>Tools</strong></td>
     <td>
       <img src="icons/git.png" alt="Git" width="16" height="16"> Git, 
-      <img src="icons/docker.png" alt="Docker" width="16" height="16"> Docker, 
-      <img src="icons/postman.png" alt="Postman" width="16" height="16"> Postman
+      <img src="icons/docker.png" alt="Docker" width="16" height="16"> Docker
     </td>
   </tr>
 </table>
@@ -84,7 +82,7 @@ Below are the tools that help me develop and deliver my projects:
     <td><strong>Design & Productivity</strong></td>
     <td>
       <a href="https://www.adobe.com/creativecloud.html">
-        <img src="icons/adobe.png" width="16"> Adobe Creative Cloud
+        <img src="icons/adobe.png" width="16"> Adobe CC
       </a>, 
       <a href="https://obsidian.md/">
         <img src="icons/obsidian.png" width="16"> Obsidian
