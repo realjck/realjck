@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-I am a versatile front-end developer with a passion for innovation and interactive experiences. With hands-on experience in digital learning, I bring a fresh perspective on development and IT consulting.
+I am a versatile front-end developer with a passion for innovation and interactive experiences. With hands-on experience in digital learning, I transform ideas into value, no matter the stack.
 
 ## 🛠️ Skills
 
-Here is the tech stack I like working with:
+Here is the technologies I like working with right now:
 
 <table>
   <tr>
