@@ -6,7 +6,7 @@ I am a versatile front-end developer with a passion for innovation and interacti
 
 ## 🛠️ Skills
 
-Here is the technologies I like working with right now:
+Here are the technologies and frameworks I like working with right now:
 
 <table>
   <tr>
