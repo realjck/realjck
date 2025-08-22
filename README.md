@@ -20,7 +20,7 @@ Here are the technologies and frameworks I like working with right now:
   <tr>
     <td><strong>Back-End</strong></td>
     <td>
-      <img src="icons/python.png" alt="Python" width="16" height="16"> Python (Flask), 
+      <img src="icons/python.png" alt="Python" width="16" height="16"> Python, 
       <img src="icons/n8n.png" alt="n8n" width="16" height="16"> n8n
     </td>
   </tr>
@@ -35,7 +35,7 @@ Here are the technologies and frameworks I like working with right now:
     <td><strong>Tools</strong></td>
     <td>
       <img src="icons/git.png" alt="Git" width="16" height="16"> Git, 
-      <img src="icons/docker.png" alt="Docker" width="16" height="16"> Docker
+      <img src="icons/gemini.png" alt="Gemini" width="16" height="16"> Gemini
     </td>
   </tr>
 </table>
@@ -53,6 +53,12 @@ Below are the tools that help me develop and deliver my projects:
     <td>
       <a href="https://code.visualstudio.com/">
         <img src="icons/vscode.png" width="16"> VS Code
+      </a>, 
+      <a href="https://www.postman.com/">
+        <img src="icons/postman.png" width="16"> Postman
+      </a>, 
+      <a href="https://dbeaver.io/">
+        <img src="icons/dbeaver.png" width="16"> DBeaver
       </a>
     </td>
   </tr>
@@ -64,9 +70,6 @@ Below are the tools that help me develop and deliver my projects:
       </a>, 
       <a href="https://portainer.io/">
         <img src="icons/portainer.png" width="16"> Portainer
-      </a>, 
-      <a href="https://www.postman.com/">
-        <img src="icons/postman.png" width="16"> Postman
       </a>, 
       <a href="https://cyberduck.io/">
         <img src="icons/cyberduck.png" width="16"> Cyberduck
