@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a versatile developer with a passion for innovation and interactive experiences. With hands-on experience in digital learning, I design and develop solutions that enhance interactivity and accessibility.
+I am a dedicated developer with a passion for innovation and interactive experiences. With hands-on experience in digital learning, I design and develop solutions that enhance interactivity and accessibility.
 
 ## 🛠️ Skills
 
