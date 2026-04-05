@@ -34,8 +34,7 @@ Here are the technologies and frameworks I like working with right now:
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="icons/git.png" alt="Git" width="16" height="16"> Git, 
-      <img src="icons/gemini.png" alt="Gemini" width="16" height="16"> Gemini
+      <img src="icons/claude-code.png" alt="Claude Code" width="16" height="16"> Claude Code
     </td>
   </tr>
 </table>
