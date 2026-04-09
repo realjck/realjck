@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-I am a dedicated developer with a passion for innovation and interactive experiences. With hands-on experience in digital learning, I design and develop solutions that enhance interactivity and accessibility.
+I am a dedicated developer with a passion for innovation and interactive experiences. With hands-on experience in UI/UX, I design and develop solutions that enhance interactivity and accessibility.
 
-## 🛠️ Skills
+## 🛠️ Technical Stack
 
 Here are the technologies and frameworks I like working with right now:
 
@@ -12,8 +12,9 @@ Here are the technologies and frameworks I like working with right now:
   <tr>
     <td><strong>Front-End</strong></td>
     <td>
-      <img src="icons/typescript.png" alt="TypeScript" width="16" height="16"> TypeScript, 
+      <img src="icons/nextjs.png" alt="React" width="16" height="16"> Next.js ,
       <img src="icons/react.png" alt="React" width="16" height="16"> React, 
+      <img src="icons/typescript.png" alt="TypeScript" width="16" height="16"> TypeScript, 
       <img src="icons/tailwind.png" alt="Tailwind CSS" width="16" height="16"> Tailwind
     </td>
   </tr>
@@ -21,6 +22,8 @@ Here are the technologies and frameworks I like working with right now:
     <td><strong>Back-End</strong></td>
     <td>
       <img src="icons/python.png" alt="Python" width="16" height="16"> Python, 
+      <img src="icons/fastapi.png" alt="FastAPI" width="16" height="16"> FastAPI, 
+      <img src="icons/docker.png" alt="Docker" width="16" height="16"> Docker, 
       <img src="icons/n8n.png" alt="n8n" width="16" height="16"> n8n
     </td>
   </tr>
@@ -32,9 +35,10 @@ Here are the technologies and frameworks I like working with right now:
     </td>
   </tr>
   <tr>
-    <td><strong>Tools</strong></td>
+    <td><strong>AI Coding Tools</strong></td>
     <td>
-      <img src="icons/claude-code.png" alt="Claude Code" width="16" height="16"> Claude Code
+      <img src="icons/claude-code.png" alt="Claude Code" width="16" height="16"> Claude Code, 
+      <img src="icons/gemini.png" alt="Gemini" width="16" height="16"> Gemini
     </td>
   </tr>
 </table>
@@ -42,54 +46,9 @@ Here are the technologies and frameworks I like working with right now:
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-## 🖱️ Software I use
 
-Below are the tools that help me develop and deliver my projects:
+I enjoy using <img src="icons/obsidian.png" width="16" height="16"> Obsidian for documentation and <img src="icons/jira.png" width="16" height="16"> Jira for project management.
 
-<table>
-  <tr>
-    <td><strong>Development</strong></td>
-    <td>
-      <a href="https://code.visualstudio.com/">
-        <img src="icons/vscode.png" width="16"> VS Code
-      </a>, 
-      <a href="https://www.postman.com/">
-        <img src="icons/postman.png" width="16"> Postman
-      </a>, 
-      <a href="https://dbeaver.io/">
-        <img src="icons/dbeaver.png" width="16"> DBeaver
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps</strong></td>
-    <td>
-      <a href="https://www.docker.com/">
-        <img src="icons/docker.png" width="16"> Docker
-      </a>, 
-      <a href="https://portainer.io/">
-        <img src="icons/portainer.png" width="16"> Portainer
-      </a>, 
-      <a href="https://cyberduck.io/">
-        <img src="icons/cyberduck.png" width="16"> Cyberduck
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Design & Productivity</strong></td>
-    <td>
-      <a href="https://www.adobe.com/creativecloud.html">
-        <img src="icons/adobe.png" width="16"> Adobe CC
-      </a>, 
-      <a href="https://obsidian.md/">
-        <img src="icons/obsidian.png" width="16"> Obsidian
-      </a>, 
-      <a href="https://notepad-plus-plus.org/">
-        <img src="icons/notepad++.png" width="16"> Notepad++
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 📬 Let's Connect
 
