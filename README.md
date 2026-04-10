@@ -4,9 +4,9 @@
 
 I am a dedicated developer with a passion for innovation and interactive experiences. With hands-on experience in UI/UX, I design and develop solutions that enhance interactivity and accessibility.
 
-## 🛠️ Technical Stack
+## 🛠️ Current Favorites
 
-Here are the technologies and frameworks I like working with right now:
+The tools and frameworks I’m most enjoying building with right now:
 
 <table>
   <tr>
@@ -41,14 +41,17 @@ Here are the technologies and frameworks I like working with right now:
       <img src="icons/gemini.png" alt="Gemini" width="16" height="16"> Gemini
     </td>
   </tr>
+  <tr>
+    <td><strong>Productivity</strong></td>
+    <td>
+      <img src="icons/obsidian.png" alt="Obsidian" width="16" height="16"> Obsidian, 
+      <img src="icons/jira.png" alt="Jira" width="16" height="16"> Jira
+    </td>
+  </tr>
 </table>
 
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/realjck/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-
-I enjoy using <img src="icons/obsidian.png" width="16" height="16"> Obsidian for documentation and <img src="icons/jira.png" width="16" height="16"> Jira for project management.
-
 
 ## 📬 Let's Connect
 
